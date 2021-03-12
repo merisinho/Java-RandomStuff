@@ -1,2 +1,0 @@
-# Java RandomStuff
- Learning java
